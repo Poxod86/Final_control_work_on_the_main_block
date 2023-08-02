@@ -1,0 +1,15 @@
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Final_control_work_on_the_main_block\project\bin\Debug\net6.0\project.exe
+D:\GeekBrains\Final_control_work_on_the_main_block\project\bin\Debug\net6.0\project.deps.json
+D:\GeekBrains\Final_control_work_on_the_main_block\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\GeekBrains\Final_control_work_on_the_main_block\project\bin\Debug\net6.0\project.dll
+D:\GeekBrains\Final_control_work_on_the_main_block\project\bin\Debug\net6.0\project.pdb
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.dll
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\refint\project.dll
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.pdb
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\GeekBrains\Final_control_work_on_the_main_block\project\obj\Debug\net6.0\ref\project.dll
